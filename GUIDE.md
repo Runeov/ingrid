@@ -260,7 +260,9 @@ inger-helene-shop/
 ```
 
 ### Teknologi
-- **Next.js 14** — React-rammeverk med statisk eksport
+- **Next.js 16** — React-rammeverk med Turbopack og statisk eksport
+- **React 19** — Brukergrensesnittbibliotek
+- **Node.js 24 LTS** — JavaScript-kjøretidsmiljø
 - **localStorage** — Klientsidelagring for produkter og handlekurv
 - **GitHub Pages** — Gratis hosting av statisk side
 - **GitHub Actions** — Automatisk bygging og publisering
